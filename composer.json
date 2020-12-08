@@ -1,0 +1,13 @@
+{
+    "name": "corun/cli",
+    "description": "Corun CLI",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Corun",
+            "email": "hello@getcorun.com"
+        }
+    ],
+    "require": {}
+}
